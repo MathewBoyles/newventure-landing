@@ -1,0 +1,17 @@
+#logo {
+	left: 50%;
+	max-width: 80%;
+	position: absolute;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	width: 320px;
+}
+
+#dots {
+	left: 50%;
+	max-width: 80%;
+	position: absolute;
+	bottom: 8px;
+	transform: translate(-50%, 0);
+	width: 32px;
+}
